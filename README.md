@@ -11,3 +11,10 @@ This is a simple Python script to spam left mouse button clicks at a customizabl
 ## Requirements:
 - Python 3.10+
 - pynput library
+
+## Installation:
+1. Clone or download this repository to your local machine.
+2. Navigate to the project directory in your terminal/command prompt.
+3. Install the required dependencies by running:
+
+`pip install -r requirements.txt`
